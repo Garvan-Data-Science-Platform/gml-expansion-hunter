@@ -1,0 +1,8 @@
+[workflow]
+dataset = ''
+access_level = 'test'
+name = 'expansion-hunter'
+
+[expansion_hunter]
+alignments = "REQUIRED_FILE"
+alignments_index = "REQUIRED_FILE"
