@@ -1,0 +1,12 @@
+version: 1.2
+workflows:
+  - name: GMLExpansionHunter
+    subclass: WDL
+    primaryDescriptorPath: /wdl/expansion_hunter.wdl
+    publish: true
+    authors:
+      - name: "Michael Geaghan"
+        orcid: "0000-0002-4350-8600"
+        email: m.geaghan@garvan.org.au
+        role: "Senior Production Bioinformatician"
+        affiliation: "Garvan Institute of Medical Research"
